@@ -1,0 +1,1142 @@
+[
+    {
+        "tag": "general_inquiries",
+        "patterns": [
+            "Where is the university located?",
+            "Can you provide the location of the university?",
+            "What's the address of the university?",
+            "How can I contact the admissions office?",
+            "What is the contact information for admissions?",
+            "Can you provide the admissions contact info?",
+            "What is the tuition fee for undergraduate programs?",
+            "How much is the tuition for undergrad programs?",
+            "What's the cost of undergraduate programs?",
+            "Are there scholarships available?",
+            "Do you offer scholarships?",
+            "Is financial aid available?",
+            "When do applications open for Fall intake?",
+            "When can I apply for Fall semester?",
+            "When does the Fall application process begin?",
+            "Where can I find the university map?",
+            "Can you provide a map of the university?",
+            "Where can I get a map of the campus?"
+        ],
+        "responses": [
+            "The university is located at 123 University St.",
+            "You can contact the admissions office at admissions@university.edu or call 555-1234.",
+            "The tuition fee for undergraduate programs is $10,000 per semester.",
+            "Yes, we offer a variety of scholarships. You can find more information on our website.",
+            "Applications for Fall intake open on March 1.",
+            "You can find the university map on our website or at the information desk on campus."
+        ]
+    },
+    {
+        "tag": "faculty",
+        "patterns": [
+            "Tell me about the faculty",
+            "Who are the notable faculty?",
+            "Are there any award-winning faculty?",
+            "What's the faculty to student ratio?",
+            "Faculty qualifications",
+            "Tell me about the professors",
+            "Who are the professors in the Computer Science department?",
+            "Who are the professors in the Mechanical Engineering department?",
+            "Who are the professors in the Electrical Engineering department?",
+            "Who are the professors in the Chemistry department?",
+            "Who are the professors in the Physics department?",
+            "Who are the professors in the Mathematics department?",
+            "Who are the professors in the Biology department?",
+            "Who are the professors in the Economics department?"
+        ],
+        "responses": [
+            "We have a diverse and highly qualified faculty with many holding Ph.D. or equivalent qualifications in their fields.",
+            "Our faculty to student ratio is 1:15, ensuring personal attention and guidance.",
+            "You can find detailed information about our faculty on the university website under the respective department's page.",
+            "We have several award-winning faculty members who have been recognized for their research and teaching excellence.",
+            "The list of faculty members for each department can be found on our website."
+        ]
+    },
+    {
+        "tag": "accommodation",
+        "patterns": [
+            "Tell me about the accommodation facilities",
+            "Is there on-campus housing?",
+            "How do I apply for a hostel?",
+            "What are the housing options?",
+            "What's the cost of on-campus housing?",
+            "Are there meal plans available?",
+            "How are the dormitories?",
+            "Is there a deadline for housing applications?",
+            "How are roommates assigned?",
+            "Can I choose my roommate?",
+            "What are the off-campus housing options?",
+            "Are there any university-affiliated off-campus residences?",
+            "When can I move into my housing?"
+        ],
+        "responses": [
+            "We offer both on-campus and off-campus housing options.",
+            "You can apply for on-campus housing through our website.",
+            "The cost of on-campus housing varies depending on the type of accommodation.",
+            "Yes, there are meal plans available for students living on-campus.",
+            "Our dormitories are well-maintained and equipped with all the necessary amenities.",
+            "The deadline for housing applications is usually in June. It's advisable to check the website for the exact dates.",
+            "Roommates are assigned based on the preferences indicated in your housing application.",
+            "Yes, you can choose your roommate if you both mutually agree."
+        ]
+    },
+    {
+        "tag": "student_life",
+        "patterns": [
+            "What clubs and organizations are there?",
+            "Tell me about student life",
+            "Are there any student-run publications?",
+            "How's the social scene?",
+            "Are there any events or festivals on campus?",
+            "What sports teams does the university have?",
+            "How can I join a club?",
+            "What are some popular student activities?",
+            "What's the school spirit like?",
+            "Are there opportunities for community service?",
+            "Are there fraternities and sororities on campus?",
+            "What's there to do on the weekends?"
+        ],
+        "responses": [
+            "There's a vibrant student life on campus with over 50 student-run clubs and organizations.",
+            "We have a variety of events and festivals throughout the year, promoting cultural exchange and student engagement.",
+            "You can join a club by attending the club fair held at the beginning of each semester or contacting the club directly.",
+            "Our university has a strong sense of community and school spirit.",
+            "Yes, there are many opportunities for community service and engagement both on and off-campus."
+        ]
+    },
+    {
+        "tag": "admissions",
+        "patterns": [
+            "Tell me about the admissions process",
+            "When do admissions open?",
+            "What is the last date for admissions?",
+            "What are the prerequisites for admission?",
+            "What is the tuition fee?",
+            "Is there an entrance exam?",
+            "How can I apply for admission?",
+            "When will I know the result of my application?",
+            "Can I defer my admission?",
+            "What documents are required for admission?",
+            "Do you have an orientation program for new students?",
+            "Can I visit the campus before applying?",
+            "What are the scholarships available for incoming students?"
+        ],
+        "responses": [
+            "Admissions usually open in the fall, with the exact dates updated on our website.",
+            "The last date for admissions, along with other important dates, can be found on our admissions page.",
+            "The prerequisites for admission vary by program, and details can be found under each program's admission requirements.",
+            "Tuition fees are listed on our website under the Tuitions and Fees section.",
+            "We have an entrance exam for some programs, the details of which can be found on our admissions page.",
+            "You can apply for admission through our online portal.",
+            "Admission results are usually out by the spring, and you'll be notified via email.",
+            "Yes, under certain circumstances, you can defer your admission. Details can be found on our Admissions FAQ page."
+        ]
+    },
+    {
+        "tag": "career_services",
+        "patterns": [
+            "Tell me about career services",
+            "How can I get an internship?",
+            "What companies recruit from here?",
+            "Do you have a job placement program?",
+            "What is the average salary of graduates?",
+            "How does the university assist with job placements?",
+            "Where can I find more information on career opportunities?",
+            "Do you have job fairs?",
+            "When are the job fairs conducted?",
+            "Tell me about networking opportunities with alumni"
+        ],
+        "responses": [
+            "Our career services department assists students with internships and job placements.",
+            "We have regular job fairs where many reputed companies come to recruit.",
+            "Information on job placements and internships can be found on our career services webpage.",
+            "We have a strong alumni network and host regular networking events.",
+            "The average salary of graduates varies by program, and details can be found on our career services page."
+        ]
+    },
+    {
+        "tag": "campus_safety",
+        "patterns": [
+            "Tell me about campus safety",
+            "Is the campus safe at night?",
+            "What measures are in place for student safety?",
+            "Is there a campus police?",
+            "How do I report an incident?",
+            "What is the procedure for emergencies?",
+            "Are there emergency call boxes on campus?",
+            "What is the university's sexual misconduct policy?"
+        ],
+        "responses": [
+            "Campus safety is a top priority. We have a dedicated campus police force.",
+            "Emergency call boxes are strategically placed around campus.",
+            "For reporting incidents or emergencies, contact campus police or use the emergency call boxes.",
+            "Our sexual misconduct policy and other safety policies are available on our website.",
+            "The campus is well-lit and patrolled 24/7 for the safety of our students."
+        ]
+    },
+    {
+        "tag": "library_services",
+        "patterns": [
+            "Tell me about the library",
+            "What are the library hours?",
+            "How do I borrow books?",
+            "Is there a digital library?",
+            "Can I access library resources online?",
+            "Tell me about study spaces in the library",
+            "How can I reserve a study room?",
+            "Are there any collaborative spaces in the library?",
+            "Tell me about library support for research"
+        ],
+        "responses": [
+            "Our library is open from 8am to 11pm on weekdays, with reduced hours on weekends.",
+            "Books can be borrowed using your student ID.",
+            "Yes, we have a digital library and many resources can be accessed online.",
+            "Study rooms can be reserved online or at the library front desk.",
+            "We have collaborative spaces and provide support for research including access to databases and research guides."
+        ]
+    },
+    {
+        "tag": "health_services",
+        "patterns": [
+            "Tell me about health services on campus",
+            "Is there a campus clinic?",
+            "What medical facilities are available?",
+            "How do I make an appointment?",
+            "Is there counseling available?",
+            "Tell me about insurance coverage",
+            "What if I have a medical emergency?"
+        ],
+        "responses": [
+            "We have a campus clinic that provides a range of medical services.",
+            "Appointments can be made online or by phone.",
+            "Counseling services are available and can be scheduled through our health services department.",
+            "In case of a medical emergency, contact campus police or visit the nearest hospital."
+        ]
+    },
+    {
+        "tag": "dormitory",
+        "patterns": [
+            "Tell me about the dormitory facilities",
+            "How can I apply for a dorm room?",
+            "What are the dormitory rules?",
+            "Are the dorms co-ed?",
+            "What items are provided in the dorm rooms?",
+            "Is there a curfew for the dormitories?",
+            "Can I choose my roommate?",
+            "What's the cost of dorm living?",
+            "Is there a meal plan for dorm residents?",
+            "How are dorms assigned?"
+        ],
+        "responses": [
+            "Our university offers well-maintained dormitory facilities with separate buildings for different genders.",
+            "You can apply for a dorm room through our online housing portal.",
+            "Dormitory rules and guidelines are provided during the housing application process and are also available on our website.",
+            "Each dorm room comes with basic furnishings including a bed, desk, chair, and wardrobe.",
+            "Yes, there's a meal plan available for dorm residents which can be opted for at the time of housing application.",
+            "Dorm assignments are usually made based on the application date, preferences, and availability."
+        ]
+    },
+    {
+        "tag": "extracurricular",
+        "patterns": [
+            "Tell me about extracurricular activities",
+            "What clubs and organizations are on campus?",
+            "How can I join a club?",
+            "Are there any sports teams?",
+            "Tell me about the music and arts scene on campus",
+            "Are there opportunities for community service?",
+            "How do I start a new club?",
+            "What events are held on campus?",
+            "Is there a gym on campus?"
+        ],
+        "responses": [
+            "We have a variety of clubs and organizations covering a range of interests including academics, arts, culture, sports, and community service.",
+            "You can join a club by attending the club fair held at the beginning of each semester or by contacting the club directly.",
+            "Yes, we have various sports teams and tryouts are held at the beginning of the school year.",
+            "Our campus hosts a number of music, art, and cultural events throughout the year.",
+            "Information on starting a new club can be obtained from the student affairs office."
+        ]
+    },
+    {
+        "tag": "international_students",
+        "patterns": [
+            "What support is available for international students?",
+            "Is there an international student office?",
+            "How can I improve my English?",
+            "Tell me about the cultural exchange programs",
+            "How do I apply for a visa?",
+            "What's the process for obtaining a work permit?",
+            "Are there language support services available?",
+            "Are there any international student clubs?"
+        ],
+        "responses": [
+            "We have a dedicated International Student Office to assist international students with their needs.",
+            "For language support, we offer English language courses and tutoring services.",
+            "Information on visa and work permit procedures can be obtained from the International Student Office.",
+            "Yes, we have various cultural exchange programs and international student clubs to promote cultural understanding and engagement."
+        ]
+    },
+    {
+        "tag": "academic_advising",
+        "patterns": [
+            "How do I schedule an appointment with an academic advisor?",
+            "Tell me about academic advising",
+            "Who is my academic advisor?",
+            "How can I change my major?",
+            "I need help with my class schedule",
+            "How do I withdraw from a course?",
+            "Where is the academic advising office located?",
+            "What resources are available for academic support?",
+            "I'm struggling in my classes, where can I get help?"
+        ],
+        "responses": [
+            "You can schedule an appointment with an academic advisor through our online portal or by visiting the academic advising office.",
+            "Academic advisors are here to help you with course selection, academic planning, and other academic-related concerns.",
+            "Information on changing your major can be found on our website or by consulting with an academic advisor.",
+            "If you're struggling in your classes, academic support services such as tutoring and study workshops are available."
+        ]
+    },
+    {
+        "tag": "transportation",
+        "patterns": [
+            "Tell me about transportation on campus",
+            "Is there a campus shuttle?",
+            "Where can I park my car?",
+            "How do I get a parking permit?",
+            "Are there bike racks on campus?",
+            "Is the campus pedestrian-friendly?",
+            "What's the nearest public transportation station?"
+        ],
+        "responses": [
+            "Our campus has a shuttle service that operates during the weekdays, covering different parts of the campus and nearby housing.",
+            "Parking is available in designated areas with a valid parking permit, which can be obtained from the transportation office.",
+            "Yes, there are bike racks located throughout the campus.",
+            "The campus is designed to be pedestrian-friendly with well-marked walkways and crosswalks.",
+            "The nearest public transportation station is located just a few blocks from the campus entrance."
+        ]
+    },
+
+    {
+        "tag": "ragging",
+        "patterns": [
+            "Tell me about the anti-ragging measures in place.",
+            "Has there been any ragging incidents?",
+            "How does the university deal with ragging?",
+            "Where can I report ragging?",
+            "What are the consequences of ragging?",
+            "Are there any campaigns against ragging?",
+            "I am afraid of ragging, what should I do?",
+            "How safe is the campus from ragging?",
+            "What is the university's stance on ragging?",
+            "Is there a committee to handle ragging issues?"
+        ],
+        "responses": [
+            "The university has a strict anti-ragging policy in place to ensure the safety and well-being of all students.",
+            "Any incidents of ragging can be reported to the anti-ragging committee or the university authorities.",
+            "Strict action is taken against individuals found involved in ragging, as per the university's policy and guidelines.",
+            "Various awareness campaigns are conducted to educate students about the ill effects of ragging.",
+            "The campus is monitored and secured to prevent any ragging activities.",
+            "We encourage students to report any such incidents without fear, as the university prioritizes a safe and conducive learning environment for all."
+        ]
+    },
+    {
+        "tag": "hod",
+        "patterns": [
+            "Who is the Head of Department for Mechanical Engineering?",
+            "Can I have a meeting with the HOD?",
+            "Where is the HOD's office?",
+            "How can I contact the HOD?",
+            "Tell me about the HOD of Electrical Engineering.",
+            "Who are the HODs for all departments?",
+            "Is there a list of HODs on the university website?",
+            "What is the role of the HOD?",
+            "What are the office hours for the HOD?",
+            "When was the current HOD appointed?"
+        ],
+        "responses": [
+            "The Head of Department (HOD) for each department can be found on the university's website or by contacting the respective department's office.",
+            "To schedule a meeting with the HOD, it's advisable to contact the department office or email the HOD directly.",
+            "The HOD's office is usually located within the department's building.",
+            "Contact details for the HOD can be found on the university's website or by contacting the department office.",
+            "The HOD oversees the academic and administrative functions of the department, ensuring smooth operation and quality education."
+        ]
+    },
+    {
+        "tag": "salutation",
+        "patterns": [
+            "Thank you for your help.",
+            "You've been very helpful.",
+            "Appreciate your assistance.",
+            "Thanks for the information.",
+            "You're great!",
+            "That was helpful.",
+            "I appreciate the help.",
+            "Thanks a bunch.",
+            "Keep up the good work.",
+            "Thanks for the support."
+        ],
+        "responses": [
+            "You're welcome! If you have any more questions or need further assistance, feel free to ask.",
+            "I'm glad I could assist you. Have a great day!",
+            "Thank you for the kind words. If there's anything else you need help with, just let me know.",
+            "Happy to help! Don't hesitate to reach out if you have more questions.",
+            "It's my pleasure to assist you. Have a great day!"
+        ]
+    },
+
+    {
+        "tag": "vacation",
+        "patterns": [
+            "When does the summer vacation start?",
+            "Tell me about the winter break.",
+            "Are there any breaks during the semester?",
+            "What are the official holidays?",
+            "When does the academic year end?",
+            "Is there a spring break?",
+            "When does the new semester begin?",
+            "How long is the summer vacation?",
+            "Can we come to college during vacations?",
+            "What is the schedule for the next semester?"
+        ],
+        "responses": [
+            "The summer vacation usually starts in May, but the exact dates may vary each year.",
+            "Winter break typically starts in late December.",
+            "Yes, there are short breaks during the semester, the details of which can be found in the academic calendar.",
+            "The official holidays are listed in the academic calendar.",
+            "The academic year usually ends in April.",
+            "Spring break schedules vary, so it's best to check the academic calendar.",
+            "The new semester usually begins in August for the fall and January for the spring.",
+            "Summer vacation is typically around 2 months long.",
+            "Yes, you can come to college during vacations but access to certain facilities may be limited.",
+            "The schedule for the next semester will be released by the administration closer to the end of the current semester."
+        ]
+    },
+    {
+        "tag": "swear",
+        "patterns": [
+            "you are useless",
+            "you are a waste",
+            "you suck",
+            "what the hell",
+            "this is shit",
+            "you're a joke",
+            "fuck off",
+            "bloody hell",
+            "you're a failure",
+            "damn you"
+        ],
+        "responses": [
+            "I'm here to help, so please refrain from using inappropriate language.",
+            "It's important to maintain a respectful tone while interacting.",
+            "I apologize if I didn't meet your expectations, I'm here to assist you."
+        ]
+    },
+    {
+        "tag": "inappropriate",
+        "patterns": [
+            "you're hot",
+            "send nudes",
+            "you're sexy",
+            "what are you wearing",
+            "do you have a boyfriend",
+            "are you single",
+            "do you want to go out",
+            "you look great",
+            "you're attractive",
+            "let's have some fun"
+        ],
+        "responses": [
+            "I am just a text-based AI here to assist you. Let's keep our conversation professional.",
+            "Let's focus on the topic at hand, I'm here to assist you with your questions.",
+            "I am programmed to provide helpful information and answer your queries. Let's stick to that, shall we?"
+        ]
+    },
+    
+    {
+        "tag": "library",
+        "patterns": [
+            "What are the library hours?",
+            "Can I borrow books from the library?",
+            "How do I get a library card?",
+            "Is there a study area in the library?",
+            "How many books can I borrow at a time?",
+            "Can I reserve a book online?",
+            "What is the late fee for returning books?",
+            "Are there computers in the library?",
+            "Can I access the library's resources online?",
+            "Does the library offer any workshops or tutorials?"
+        ],
+        "responses": [
+            "The library is open from 8:00 AM to 8:00 PM on weekdays.",
+            "Yes, students can borrow books from the library.",
+            "You can get a library card by applying at the library's front desk.",
+            "Yes, there's a study area in the library with individual and group study spaces.",
+            "Students can borrow up to 5 books at a time.",
+            "Yes, books can be reserved online through the library's website.",
+            "The late fee is $1 per day per book.",
+            "Yes, there are computers available for use in the library.",
+            "Yes, many of the library's resources can be accessed online.",
+            "Yes, the library often offers workshops and tutorials on a variety of topics."
+        ]
+    },
+    {
+        "tag": "transport",
+        "patterns": [
+            "Is there a university shuttle?",
+            "How do I get to the university?",
+            "Is there a parking lot on campus?",
+            "Do I need a parking permit?",
+            "Is there a bike rack on campus?",
+            "Are there any carpool options?",
+            "How do I get a parking permit?",
+            "Where is the nearest bus stop?",
+            "How far is the nearest train station?",
+            "Can I bring my skateboard to campus?"
+        ],
+        "responses": [
+            "Yes, there's a university shuttle that circulates around campus and nearby areas.",
+            "You can get to the university by car, bike, or public transportation.",
+            "Yes, there are several parking lots on campus.",
+            "Yes, a parking permit is required to park on campus.",
+            "Yes, there are bike racks located throughout campus.",
+            "There might be carpool options organized by students or local communities.",
+            "Parking permits can be obtained through the university's transportation office.",
+            "The nearest bus stop is located at the main entrance of the university.",
+            "The nearest train station is about 2 miles from the campus.",
+            "Yes, skateboards are allowed but must be used in designated areas."
+        ]
+    },
+    {
+        "tag": "food",
+        "patterns": [
+            "Where can I get food on campus?",
+            "Is there a cafeteria?",
+            "Can I bring my own food?",
+            "Are there any vegetarian options available?",
+            "What are the hours for the cafeteria?",
+            "Where is the nearest coffee shop?",
+            "Are there any food trucks on campus?",
+            "Can I get a meal plan?",
+            "Is there a place to heat up my own food?",
+            "Are there any restaurants nearby?"
+        ],
+        "responses": [
+            "There are several food outlets on campus including a cafeteria.",
+            "Yes, there's a cafeteria on campus located near the main entrance.",
+            "Yes, you can bring your own food.",
+            "Yes, the cafeteria offers a variety of vegetarian and vegan options.",
+            "The cafeteria is open from 7:00 AM to 7:00 PM on weekdays.",
+            "The nearest coffee shop is located in the library building.",
+            "Yes, there are food trucks that visit campus regularly.",
+            "Yes, meal plans are available for students and can be purchased at the beginning of the semester.",
+            "Yes, there are microwave ovens in the cafeteria for students to use.",
+            "Yes, there are several restaurants located near campus."
+        ]
+    },
+    {
+        "tag": "library",
+        "patterns": [
+            "library hours",
+            "when is the library open",
+            "library facilities",
+            "book borrowing process",
+            "are there study rooms in the library",
+            "how to reserve a book",
+            "library contact",
+            "how many books can I borrow",
+            "where is the library located"
+        ],
+        "responses": [
+            "The library is open from 9am to 9pm from Monday to Saturday. It's closed on Sundays and public holidays.",
+            "You can borrow up to 3 books for a period of 2 weeks. Renewals are available if the book isn't on hold for another student.",
+            "Study rooms can be reserved online or at the library front desk.",
+            "For more information, visit our <a href='library-website-link'>library website</a> or contact the library at (library-contact-number)."
+        ]
+    },
+    {
+        "tag": "hostel",
+        "patterns": [
+            "hostel facilities",
+            "hostel fee",
+            "how to apply for hostel",
+            "what are the rules of hostel",
+            "hostel contact",
+            "how are the rooms in hostel",
+            "can I choose my roommate",
+            "what is the process for hostel allotment"
+        ],
+        "responses": [
+            "The hostel fee for the academic year is $XXX. It includes accommodation and mess charges.",
+            "Rooms are alloted on a first-come-first-serve basis. You can apply for hostel accommodation through our online portal.",
+            "For more information, visit our <a href='hostel-website-link'>hostel website</a> or contact the hostel office at (hostel-contact-number)."
+        ]
+    },
+    {
+        "tag": "placement",
+        "patterns": [
+            "placement statistics",
+            "companies coming for placement",
+            "how to prepare for placements",
+            "placement cell contact",
+            "average package offered",
+            "internship opportunities",
+            "placement process"
+        ],
+        "responses": [
+            "Our placement cell actively engages with various companies to provide placement and internship opportunities to our students.",
+            "The average package offered last year was $XX LPA. Some of the top recruiters include Company A, Company B, and Company C.",
+            "For more details, visit our <a href='placement-website-link'>placement website</a> or contact the placement cell at (placement-cell-contact-number)."
+        ]
+    },
+    {
+        "tag": "cafeteria",
+        "patterns": [
+            "cafeteria hours",
+            "what's on the menu",
+            "cafeteria location",
+            "how do I get a meal plan",
+            "cafeteria contact"
+        ],
+        "responses": [
+            "The cafeteria is open from 8am to 8pm on weekdays and 9am to 7pm on weekends.",
+            "You can find a wide variety of meals on the menu including vegetarian, vegan, and non-vegetarian options.",
+            "Meal plans can be purchased at the beginning of each semester through our online portal."
+        ]
+    },
+    {
+        "tag": "tuition",
+        "patterns": [
+            "tuition fee",
+            "payment methods for tuition",
+            "when is the tuition due",
+            "how much is the tuition",
+            "tuition for international students",
+            "where to pay the tuition",
+            "is there a tuition payment plan",
+            "tuition refund"
+        ],
+        "responses": [
+            "The tuition fee for the academic year is $XXXX.",
+            "Tuition can be paid online through our payment portal or at the finance office.",
+            "Tuition deadlines are at the beginning of each semester, and we do offer payment plans for those who need them.",
+            "For more details on tuition and fees, please visit <a href='tuition-website-link'>our website</a> or contact the finance office at (finance-office-contact)."
+        ]
+    },
+    {
+        "tag": "emergency",
+        "patterns": [
+            "emergency contact",
+            "what to do in an emergency",
+            "campus security",
+            "where is the security office",
+            "how to report an emergency",
+            "safety measures on campus",
+            "emergency procedures"
+        ],
+        "responses": [
+            "In case of an emergency, call campus security at (security-contact) or dial 911.",
+            "The security office is located at (location).",
+            "We have a comprehensive emergency response plan, and we conduct regular drills to ensure the safety and security of our community."
+        ]
+    },
+    {
+        "tag": "parking",
+        "patterns": [
+            "parking permit",
+            "where can I park",
+            "parking fee",
+            "how to get a parking pass",
+            "parking rules",
+            "parking for visitors",
+            "parking enforcement hours"
+        ],
+        "responses": [
+            "Parking permits can be obtained online or at the campus security office.",
+            "The parking fee for the academic year is $XXX.",
+            "Visitor parking is available at designated areas and is free during weekends."
+        ]
+    },
+    {
+        "tag": "clubs",
+        "patterns": [
+            "student clubs",
+            "how to join a club",
+            "list of clubs",
+            "club fair dates",
+            "starting a new club",
+            "club leadership"
+        ],
+        "responses": [
+            "We have a wide range of student clubs covering academics, culture, sports, and other interests.",
+            "Club fair is held during the first week of each semester where you can learn more about different clubs and how to join them.",
+            "To start a new club, contact the Student Activities Office for the procedure and required documentation."
+        ]
+    },
+    {
+        "tag": "counseling",
+        "patterns": [
+            "counseling services",
+            "mental health resources",
+            "how to book a counseling appointment",
+            "where is the counseling center",
+            "stress management resources"
+        ],
+        "responses": [
+            "Our counseling center offers a variety of services to support students' mental health and well-being.",
+            "To book an appointment, call (counseling-center-contact) or visit the counseling center located at (location).",
+            "There are also online resources and workshops available on stress management, time management, and other relevant topics."
+        ]
+    },
+    {
+        "tag": "academic_advising",
+        "patterns": [
+            "academic advising",
+            "how to change my major",
+            "who is my academic advisor",
+            "academic support",
+            "where is the advising office"
+        ],
+        "responses": [
+            "Each student is assigned an academic advisor who can help with course selection, major/minor changes, and academic support.",
+            "To change your major, fill out the required form available at the advising office or online.",
+            "The advising office is located at (location)."
+        ]
+    },
+    {
+        "tag": "tuition",
+        "patterns": [
+            "tuition fee",
+            "payment methods for tuition",
+            "when is the tuition due",
+            "how much is the tuition",
+            "tuition for international students",
+            "where to pay the tuition",
+            "is there a tuition payment plan",
+            "tuition refund"
+        ],
+        "responses": [
+            "The tuition fee for the academic year is $XXXX.",
+            "Tuition can be paid online through our payment portal or at the finance office.",
+            "Tuition deadlines are at the beginning of each semester, and we do offer payment plans for those who need them.",
+            "For more details on tuition and fees, please visit <a href='tuition-website-link'>our website</a> or contact the finance office at (finance-office-contact)."
+        ]
+    },
+    {
+        "tag": "emergency",
+        "patterns": [
+            "emergency contact",
+            "what to do in an emergency",
+            "campus security",
+            "where is the security office",
+            "how to report an emergency",
+            "safety measures on campus",
+            "emergency procedures"
+        ],
+        "responses": [
+            "In case of an emergency, call campus security at (security-contact) or dial 911.",
+            "The security office is located at (location).",
+            "We have a comprehensive emergency response plan, and we conduct regular drills to ensure the safety and security of our community."
+        ]
+    },
+    {
+        "tag": "parking",
+        "patterns": [
+            "parking permit",
+            "where can I park",
+            "parking fee",
+            "how to get a parking pass",
+            "parking rules",
+            "parking for visitors",
+            "parking enforcement hours"
+        ],
+        "responses": [
+            "Parking permits can be obtained online or at the campus security office.",
+            "The parking fee for the academic year is $XXX.",
+            "Visitor parking is available at designated areas and is free during weekends."
+        ]
+    },
+    {
+        "tag": "clubs",
+        "patterns": [
+            "student clubs",
+            "how to join a club",
+            "list of clubs",
+            "club fair dates",
+            "starting a new club",
+            "club leadership"
+        ],
+        "responses": [
+            "We have a wide range of student clubs covering academics, culture, sports, and other interests.",
+            "Club fair is held during the first week of each semester where you can learn more about different clubs and how to join them.",
+            "To start a new club, contact the Student Activities Office for the procedure and required documentation."
+        ]
+    },
+    {
+        "tag": "counseling",
+        "patterns": [
+            "counseling services",
+            "mental health resources",
+            "how to book a counseling appointment",
+            "where is the counseling center",
+            "stress management resources"
+        ],
+        "responses": [
+            "Our counseling center offers a variety of services to support students' mental health and well-being.",
+            "To book an appointment, call (counseling-center-contact) or visit the counseling center located at (location).",
+            "There are also online resources and workshops available on stress management, time management, and other relevant topics."
+        ]
+    },
+    {
+        "tag": "academic_advising",
+        "patterns": [
+            "academic advising",
+            "how to change my major",
+            "who is my academic advisor",
+            "academic support",
+            "where is the advising office"
+        ],
+        "responses": [
+            "Each student is assigned an academic advisor who can help with course selection, major/minor changes, and academic support.",
+            "To change your major, fill out the required form available at the advising office or online.",
+            "The advising office is located at (location)."
+        ]
+    },
+    {
+        "tag": "housing",
+        "patterns": [
+            "dorm rooms",
+            "on-campus housing",
+            "housing application",
+            "what are the housing options",
+            "roommate matching",
+            "when is the housing deadline",
+            "how much does housing cost",
+            "can I choose my roommate",
+            "off-campus housing"
+        ],
+        "responses": [
+            "We have several on-campus housing options including dormitory rooms and shared apartments.",
+            "The housing application opens on (date) and the deadline to apply is (date).",
+            "Housing costs vary by option, but range from $XXXX to $XXXX per semester.",
+            "Roommate matching is done through our housing office, or you can specify a preferred roommate in your application."
+        ]
+    },
+    {
+        "tag": "health_services",
+        "patterns": [
+            "health center",
+            "where is the health center",
+            "medical services on campus",
+            "can I see a doctor on campus",
+            "vaccination",
+            "how to make a medical appointment",
+            "emergency medical services",
+            "health insurance"
+        ],
+        "responses": [
+            "Our health center provides a range of medical services including doctor consultations, vaccinations, and emergency care.",
+            "To make an appointment, call the health center at (contact number) or book online.",
+            "In case of a medical emergency, call 911 or visit the nearest emergency room."
+        ]
+    },
+    {
+        "tag": "library",
+        "patterns": [
+            "library hours",
+            "library resources",
+            "book rental",
+            "study rooms",
+            "library computer lab",
+            "how to reserve a study room",
+            "where is the library",
+            "library assistance"
+        ],
+        "responses": [
+            "Our library is open from (opening hours) and provides a vast collection of books, journals, and online resources.",
+            "To reserve a study room or borrow a book, visit the library's website or front desk.",
+            "The library also has a computer lab and offers tech support and research assistance."
+        ]
+    },
+    {
+        "tag": "career_services",
+        "patterns": [
+            "career center",
+            "job placements",
+            "internship opportunities",
+            "resume help",
+            "where is the career center",
+            "career counseling",
+            "job fair dates"
+        ],
+        "responses": [
+            "Our career center provides a range of services including job placement, internship coordination, resume review, and career counseling.",
+            "Job fairs are held each semester, with the next one scheduled for (date).",
+            "Visit the career center at (location) or its website for more information on upcoming events and services."
+        ]
+    },
+    {
+        "tag": "registration",
+        "patterns": [
+            "course registration",
+            "how to register for classes",
+            "when does registration open",
+            "registration deadline",
+            "can I change my schedule",
+            "add/drop period",
+            "where to find course catalog"
+        ],
+        "responses": [
+            "Course registration opens on (date) and the deadline is (date).",
+            "You can register for classes or change your schedule online through the student portal.",
+            "The add/drop period lasts until (date), during which you can make changes to your schedule without penalty."
+        ]
+    },
+    {
+        "tag": "transcripts",
+        "patterns": [
+            "how to request a transcript",
+            "where to get my transcript",
+            "transcript request",
+            "is there a fee for transcripts",
+            "how long does it take to get a transcript"
+        ],
+        "responses": [
+            "Transcript requests can be made online through the student portal or in person at the registrar's office.",
+            "There is a $XX fee for official transcripts.",
+            "It typically takes 3-5 business days to process a transcript request."
+        ]
+    },
+    {
+        "tag": "cafeteria",
+        "patterns": [
+            "cafeteria hours",
+            "cafeteria menu",
+            "food options on campus",
+            "meal plans",
+            "where is the cafeteria",
+            "vegetarian options",
+            "are there cafes on campus",
+            "halal food options",
+            "allergy-friendly food"
+        ],
+        "responses": [
+            "The cafeteria is open from (opening hours).",
+            "Meal plans are available and can be customized according to dietary preferences.",
+            "We have multiple food options on campus including cafes and a main cafeteria located in (building name).",
+            "Our cafeteria offers a variety of food options including vegetarian, vegan, halal, and allergy-friendly meals."
+        ]
+    },
+    {
+        "tag": "transportation",
+        "patterns": [
+            "parking permits",
+            "on-campus transportation",
+            "where to park",
+            "is there a campus shuttle",
+            "bike racks",
+            "public transportation options",
+            "carpooling",
+            "nearest subway station"
+        ],
+        "responses": [
+            "Parking permits can be obtained from the (office name) and we have multiple parking lots designated for students, staff, and visitors.",
+            "There's a campus shuttle service that operates from (time) to (time).",
+            "Bike racks are located throughout campus and public transportation is accessible with the nearest subway station at (station name)."
+        ]
+    },
+    {
+        "tag": "tuition",
+        "patterns": [
+            "tuition fees",
+            "payment deadlines",
+            "how to pay tuition",
+            "financial aid",
+            "tuition cost per credit",
+            "are there payment plans",
+            "scholarships",
+            "out-of-state tuition"
+        ],
+        "responses": [
+            "Tuition fees for in-state students are $XX per credit hour and $XX for out-of-state students.",
+            "Payment can be made online through the student portal or in person at the (office name).",
+            "Financial aid and scholarships are available; please visit our financial aid office for more information."
+        ]
+    },
+    {
+        "tag": "extracurricular",
+        "patterns": [
+            "clubs on campus",
+            "how to join a club",
+            "sports teams",
+            "intramural sports",
+            "theater program",
+            "music ensembles",
+            "volunteer opportunities",
+            "student government"
+        ],
+        "responses": [
+            "We have a wide range of extracurricular activities including clubs, sports teams, music ensembles, and volunteer opportunities.",
+            "To join a club, attend the club fair held at the beginning of each semester or contact the club's president.",
+            "For information on intramural sports and other activities, visit the Student Activities Office."
+        ]
+    },
+    {
+        "tag": "ID_cards",
+        "patterns": [
+            "where to get ID card",
+            "lost ID card",
+            "how to replace ID card",
+            "what is ID card used for",
+            "ID card benefits",
+            "ID card expiration"
+        ],
+        "responses": [
+            "ID cards can be obtained and replaced at the (office name) located in (building name).",
+            "Your ID card serves as your university identification, access to buildings, and can be loaded with money for use at campus facilities.",
+            "If you've lost your ID card, please report it to (office name) immediately to prevent unauthorized use."
+        ]
+    },
+    {
+        "tag": "graduation",
+        "patterns": [
+            "when is graduation",
+            "how to apply for graduation",
+            "graduation requirements",
+            "cap and gown",
+            "graduation ceremony details",
+            "where is graduation held",
+            "graduate early",
+            "graduate honors"
+        ],
+        "responses": [
+            "Graduation ceremonies are held in (month) and (month).",
+            "To apply for graduation, submit the application form available on the student portal by the (deadline).",
+            "Graduation requirements can be found in the university catalog or by consulting with your academic advisor."
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "thank you",
+            "thanks",
+            "thank you so much",
+            "thanks a lot",
+            "thanks for the help",
+            "thank you for the information"
+        ],
+        "responses": [
+            "You're welcome!",
+            "No problem, happy to help!",
+            "Glad I could assist you.",
+            "You're welcome, if you have any more questions feel free to ask."
+        ]
+    },
+    {
+        "tag": "apology",
+        "patterns": [
+            "sorry",
+            "my apologies",
+            "apologies",
+            "i apologize",
+            "sorry for the misunderstanding",
+            "sorry for the inconvenience"
+        ],
+        "responses": [
+            "No problem at all!",
+            "It's okay, don't worry about it.",
+            "No need to apologize, how can I assist you further?",
+            "It's all good, let's continue."
+        ]
+    },
+    {
+        "tag": "greeting",
+        "patterns": [
+            "hello",
+            "hi",
+            "hey",
+            "good morning",
+            "good afternoon",
+            "good evening"
+        ],
+        "responses": [
+            "Hello!",
+            "Hi there!",
+            "Hey!",
+            "Good morning!",
+            "Good afternoon!",
+            "Good evening!"
+        ]
+    },
+    {
+        "tag": "farewell",
+        "patterns": [
+            "goodbye",
+            "bye",
+            "see you later",
+            "take care",
+            "have a good day",
+            "bye bye"
+        ],
+        "responses": [
+            "Goodbye!",
+            "Bye! Have a great day!",
+            "Take care, see you next time!",
+            "Bye bye! If you have more questions, feel free to return."
+        ]
+    },
+    {
+        "tag": "positive_feedback",
+        "patterns": [
+            "great job",
+            "well done",
+            "that's right",
+            "excellent",
+            "good work",
+            "keep it up"
+        ],
+        "responses": [
+            "Thank you!",
+            "I appreciate the positive feedback!",
+            "I'm glad I could assist you."
+        ]
+    },
+    {
+        "tag": "negative_feedback",
+        "patterns": [
+            "that's wrong",
+            "incorrect",
+            "not helpful",
+            "bad job",
+            "that didn't help",
+            "unhelpful"
+        ],
+        "responses": [
+            "I apologize for any inconvenience. I'll do my best to provide better information.",
+            "I'm sorry to hear that. How can I assist you better?",
+            "Thank you for the feedback, I'll strive to improve."
+        ]
+    },
+    {
+        "tag": "confused",
+        "patterns": [
+            "i don't understand",
+            "can you clarify",
+            "i'm confused",
+            "what do you mean",
+            "that's unclear",
+            "can you explain further"
+        ],
+        "responses": [
+            "Certainly, I'd be happy to clarify.",
+            "Of course, let me explain that in more detail.",
+            "I apologize for the confusion, let's break it down."
+        ]
+    }                            
+]  
+
+
+
